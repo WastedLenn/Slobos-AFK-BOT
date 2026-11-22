@@ -8,9 +8,7 @@
   "server": {
     "ip": "WastedLenn.aternos.me",
     "port":24889 ,
-    
-  
-    "version": "1.21.1"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
